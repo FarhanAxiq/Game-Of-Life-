@@ -7,7 +7,7 @@ g++ -std=c++17 -Wall GameOfLife.cpp -o GameOfLife.o
 since it is simple enough, I feel like I don't have
 to write makefile on it
 
-Made it for a school project
+Made it for a school project but
 since the solution is generic enough I thought 
 it's a good idea to put it on here.
 
